@@ -1,14 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Niraj Malla</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
-<p align="center">
-  <img src="https://lottie.host/1f5c2c6b-7d6a-4c8d-a2d2-3b5d8b9f9a1f/dev-coding.json" width="350" />
-</p>
+---
 
 <p align="center">
-  <b>Building AI/ML & Software Projects 🚀</b>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
 </p>
+
+---
 
 <p align="center">
   I regularly share my progress on LinkedIn and continuously work on improving my skills in AI/ML, software development, and problem-solving.
@@ -16,56 +15,76 @@
 
 ---
 
+## 🚀 About Me
+
 - 🔭 I’m currently working on **AI/ML Projects**
 - 👯 I’m looking to collaborate on **AI/ML and Software Development Projects**
 - 🤝 I’m looking for help with **Advanced Machine Learning & Real-world Applications**
 - 🌱 I’m currently learning **AI/ML & Zero To Mastery**
-- 💬 Ask me about **Python, C, C++, NumPy, Pandas, Matplotlib, Scikit-learn**
-- 📫 How to reach me **mallajarin@gmail.com**
+- 💬 Ask me about **Python, C, C++, Data Science, ML**
+- 📫 How to reach me: **mallajarin@gmail.com**
 - 📝 I regularly share my progress on **LinkedIn**
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin-username" target="blank">LinkedIn</a> •
-<a href="https://github.com/github-username" target="blank">GitHub</a> •
+## 🌐 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/github-username">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 💻 Languages & Tools
 
-<p align="left">
-Python • C • C++ • NumPy • Pandas • Matplotlib • Scikit-learn • Git • GitHub • flutter
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&locale=en" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-username" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-username&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=github-username&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-username&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Goals for 2026:
+## 🚀 Goals for 2026
 - Build strong AI/ML projects  
-- Master Data Science and Machine Learning  
-- Contribute to open-source projects  
-- Grow as a Computer Engineer  
-- Share consistent progress on LinkedIn  
+- Contribute to open-source  
+- Improve problem-solving skills  
+- Share learning journey on LinkedIn  
 
 ---
-⭐️ From **Niraj Malla**
-```
+
+⭐ Made with passion by **Niraj Malla**
