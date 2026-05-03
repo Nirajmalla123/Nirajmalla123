@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on **AI/ML Projects**
 - 👯 I’m looking to collaborate on **AI/ML and Software Development Projects**
 - 🤝 I’m looking for help with **Advanced Machine Learning & Real-world Applications**
-- 🌱 I’m currently learning **AI/ML & Zero To Mastery**
+- 🌱 I’m currently learning **AI/ML**
 - 💬 Ask me about **Python, C, C++, Data Science, ML**
 - 📫 How to reach me: **mallajarin@gmail.com**
 - 📝 I regularly share my progress on **LinkedIn**
