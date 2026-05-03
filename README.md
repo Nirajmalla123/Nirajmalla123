@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <b>Building AI/ML & Software Projects 🚀</b>
+</p>
+
+<p align="center">
   I regularly share my progress on LinkedIn and continuously work on improving my skills in AI/ML, software development, and problem-solving.
 </p>
 
