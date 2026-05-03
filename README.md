@@ -24,7 +24,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin-username" target="blank">LinkedIn</a> •
 <a href="https://github.com/github-username" target="blank">GitHub</a> •
-<a href="https://kaggle.com/kaggle-username" target="blank">Kaggle</a>
 </p>
 
 ---
