@@ -1,16 +1,65 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi 👋, I'm Niraj Malla</h1>
+<h3 align="center">A passionate Computer Engineer</h3>
 
-<!--
-**Nirajmalla123/Nirajmalla123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I regularly share my progress on LinkedIn and continuously work on improving my skills in AI/ML, software development, and problem-solving.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **AI/ML Projects**
+- 👯 I’m looking to collaborate on **AI/ML and Software Development Projects**
+- 🤝 I’m looking for help with **Advanced Machine Learning & Real-world Applications**
+- 🌱 I’m currently learning **AI/ML & Zero To Mastery**
+- 💬 Ask me about **Python, C, C++, NumPy, Pandas, Matplotlib, Scikit-learn**
+- 📫 How to reach me **mallajarin@gmail.com**
+- 📝 I regularly share my progress on **LinkedIn**
+- 📄 Know about my experiences **Resume Link**
+- ⚡ Fun fact **I think I am funny**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin-username" target="blank">LinkedIn</a> •
+<a href="https://github.com/github-username" target="blank">GitHub</a> •
+<a href="https://kaggle.com/kaggle-username" target="blank">Kaggle</a>
+</p>
+
+---
+
+<h3 align="left">💻 Languages and Tools:</h3>
+
+<p align="left">
+Python • C • C++ • NumPy • Pandas • Matplotlib • Scikit-learn • Git • GitHub • Linux • React • Vue
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&locale=en" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-username" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=github-username&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+---
+
+### 🚀 Goals for 2026:
+- Build strong AI/ML projects  
+- Master Data Science and Machine Learning  
+- Contribute to open-source projects  
+- Grow as a Computer Engineer  
+- Share consistent progress on LinkedIn  
+
+---
+⭐️ From **Niraj Malla**
+```
