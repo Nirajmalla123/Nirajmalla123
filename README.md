@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Niraj Malla</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
