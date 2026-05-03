@@ -15,7 +15,6 @@
 - 💬 Ask me about **Python, C, C++, NumPy, Pandas, Matplotlib, Scikit-learn**
 - 📫 How to reach me **mallajarin@gmail.com**
 - 📝 I regularly share my progress on **LinkedIn**
-- 📄 Know about my experiences **Resume Link**
 - ⚡ Fun fact **I think I am funny**
 
 ---
