@@ -45,23 +45,26 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,flutter" />
 </p>
 
-### AI / ML
+### AI / ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</p>
+
+### Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
