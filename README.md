@@ -3,6 +3,10 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="coding animation" />
+</p>
+
+<p align="center">
   I regularly share my progress on LinkedIn and continuously work on improving my skills in AI/ML, software development, and problem-solving.
 </p>
 
