@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_jtbfg2nb.json" alt="dark coding animation" />
+  <img src="https://lottie.host/1f5c2c6b-7d6a-4c8d-a2d2-3b5d8b9f9a1f/dev-coding.json" width="350" />
 </p>
+
 <p align="center">
   <b>Building AI/ML & Software Projects 🚀</b>
 </p>
