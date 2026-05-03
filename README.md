@@ -7,6 +7,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
 </p>
 
+<p align="center">
+  <b>Building AI/ML & Software Projects 🚀</b>
+</p>
+
 ---
 
 <p align="center">
