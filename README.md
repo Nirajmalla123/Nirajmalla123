@@ -30,7 +30,7 @@
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <p align="left">
-Python • C • C++ • NumPy • Pandas • Matplotlib • Scikit-learn • Git • GitHub • Linux • React • Vue
+Python • C • C++ • NumPy • Pandas • Matplotlib • Scikit-learn • Git • GitHub • flutter
 </p>
 
 ---
