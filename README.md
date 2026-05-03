@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
+  <img src="zoom out.gif" />
 </p>
 
 <p align="center">
