@@ -3,9 +3,8 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="350" alt="coding animation" />
+  <img src="https://assets9.lottiefiles.com/packages/lf20_jtbfg2nb.json" alt="dark coding animation" />
 </p>
-
 <p align="center">
   <b>Building AI/ML & Software Projects 🚀</b>
 </p>
