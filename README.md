@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350" alt="coding animation" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="350" alt="coding animation" />
 </p>
 
 <p align="center">
