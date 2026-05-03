@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="coding animation" />
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="350" alt="coding animation" />
 </p>
 
 <p align="center">
