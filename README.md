@@ -28,8 +28,6 @@
 - 💬 Ask me about **Python, C, C++, Data Science, ML**
 - 📫 How to reach me: **mallajarin@gmail.com**
 - 📝 I regularly share my progress on **LinkedIn**
-- ⚡ Fun fact: **I think I am funny**
-
 ---
 
 ## 🌐 Connect with me
